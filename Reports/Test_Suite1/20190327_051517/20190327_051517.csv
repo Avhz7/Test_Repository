@@ -1,0 +1,59 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test_Suite1,Chrome 73.0.3683.86,,2019-03-27 05:15:19,2019-03-27 05:18:29,3m - 9.773s,PASSED
+,,,,,,
+Test Cases/Test_Prueba1,Chrome 73.0.3683.86,,2019-03-27 05:15:19,2019-03-27 05:16:43,1m - 23.448s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-03-27 05:15:20,2019-03-27 05:15:24,4.084s,PASSED
+maximizeWindow(),Chrome 73.0.3683.86,Maximize current window,2019-03-27 05:15:24,2019-03-27 05:15:25,1.144s,PASSED
+"navigateToUrl(""www.bhdleon.com.do"")",Chrome 73.0.3683.86,,2019-03-27 05:15:25,2019-03-27 05:16:07,42.204s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""), 20)",Chrome 73.0.3683.86,,2019-03-27 05:16:07,2019-03-27 05:16:29,22.029s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""))",Chrome 73.0.3683.86,,2019-03-27 05:16:29,2019-03-27 05:16:40,10.876s,PASSED
+"markPassed(""Se ingresó al formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:16:40,2019-03-27 05:16:40,0.006s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre""), Nombre)",Chrome 73.0.3683.86,,2019-03-27 05:16:40,2019-03-27 05:16:40,0.169s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:16:40,2019-03-27 05:16:40,0.214s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido""), Apellido)",Chrome 73.0.3683.86,,2019-03-27 05:16:40,2019-03-27 05:16:41,0.125s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:16:41,2019-03-27 05:16:41,0.083s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email""), Correo)",Chrome 73.0.3683.86,,2019-03-27 05:16:41,2019-03-27 05:16:41,0.191s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:16:41,2019-03-27 05:16:41,0.536s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), 3)",Chrome 73.0.3683.86,,2019-03-27 05:16:41,2019-03-27 05:16:41,0.045s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), Mensaje)",Chrome 73.0.3683.86,,2019-03-27 05:16:41,2019-03-27 05:16:42,0.130s,PASSED
+"markPassed(""Se completaron los datos del formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:16:42,2019-03-27 05:16:42,0.003s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:16:42,2019-03-27 05:16:42,0.401s,PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-03-27 05:16:42,2019-03-27 05:16:43,0.877s,PASSED
+,,,,,,
+Test Cases/Test_Prueba1,Chrome 73.0.3683.86,,2019-03-27 05:16:43,2019-03-27 05:17:08,25.507s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-03-27 05:16:43,2019-03-27 05:16:46,3.088s,PASSED
+maximizeWindow(),Chrome 73.0.3683.86,Maximize current window,2019-03-27 05:16:46,2019-03-27 05:16:47,1.129s,PASSED
+"navigateToUrl(""www.bhdleon.com.do"")",Chrome 73.0.3683.86,,2019-03-27 05:16:47,2019-03-27 05:16:56,8.813s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""), 20)",Chrome 73.0.3683.86,,2019-03-27 05:16:56,2019-03-27 05:16:56,0.033s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""))",Chrome 73.0.3683.86,,2019-03-27 05:16:56,2019-03-27 05:17:05,8.968s,PASSED
+"markPassed(""Se ingresó al formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:17:05,2019-03-27 05:17:05,0.001s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre""), Nombre)",Chrome 73.0.3683.86,,2019-03-27 05:17:05,2019-03-27 05:17:06,0.795s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:17:06,2019-03-27 05:17:06,0.193s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido""), Apellido)",Chrome 73.0.3683.86,,2019-03-27 05:17:06,2019-03-27 05:17:06,0.157s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:17:06,2019-03-27 05:17:06,0.094s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email""), Correo)",Chrome 73.0.3683.86,,2019-03-27 05:17:06,2019-03-27 05:17:06,0.217s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:17:06,2019-03-27 05:17:07,0.524s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), 3)",Chrome 73.0.3683.86,,2019-03-27 05:17:07,2019-03-27 05:17:07,0.040s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), Mensaje)",Chrome 73.0.3683.86,,2019-03-27 05:17:07,2019-03-27 05:17:07,0.142s,PASSED
+"markPassed(""Se completaron los datos del formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:17:07,2019-03-27 05:17:07,0.001s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:17:07,2019-03-27 05:17:07,0.398s,PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-03-27 05:17:07,2019-03-27 05:17:08,0.898s,PASSED
+,,,,,,
+Test Cases/Test_Prueba1,Chrome 73.0.3683.86,,2019-03-27 05:17:08,2019-03-27 05:18:29,1m - 20.577s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-03-27 05:17:08,2019-03-27 05:17:11,3.057s,PASSED
+maximizeWindow(),Chrome 73.0.3683.86,Maximize current window,2019-03-27 05:17:11,2019-03-27 05:17:13,1.128s,PASSED
+"navigateToUrl(""www.bhdleon.com.do"")",Chrome 73.0.3683.86,,2019-03-27 05:17:13,2019-03-27 05:18:06,53.419s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""), 20)",Chrome 73.0.3683.86,,2019-03-27 05:18:06,2019-03-27 05:18:06,0.052s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos""))",Chrome 73.0.3683.86,,2019-03-27 05:18:06,2019-03-27 05:18:26,20.309s,PASSED
+"markPassed(""Se ingresó al formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:18:26,2019-03-27 05:18:26,0.001s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre""), Nombre)",Chrome 73.0.3683.86,,2019-03-27 05:18:26,2019-03-27 05:18:27,0.147s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:18:27,2019-03-27 05:18:27,0.151s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido""), Apellido)",Chrome 73.0.3683.86,,2019-03-27 05:18:27,2019-03-27 05:18:27,0.099s,PASSED
+"click(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7""))",Chrome 73.0.3683.86,,2019-03-27 05:18:27,2019-03-27 05:18:27,0.072s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email""), Correo)",Chrome 73.0.3683.86,,2019-03-27 05:18:27,2019-03-27 05:18:27,0.180s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:18:27,2019-03-27 05:18:28,0.528s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), 3)",Chrome 73.0.3683.86,,2019-03-27 05:18:28,2019-03-27 05:18:28,0.028s,PASSED
+"setText(findTestObject(""Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje""), Mensaje)",Chrome 73.0.3683.86,,2019-03-27 05:18:28,2019-03-27 05:18:28,0.124s,PASSED
+"markPassed(""Se completaron los datos del formulario correctamente"")",Chrome 73.0.3683.86,,2019-03-27 05:18:28,2019-03-27 05:18:28,0.001s,PASSED
+takeScreenshot(),Chrome 73.0.3683.86,,2019-03-27 05:18:28,2019-03-27 05:18:28,0.409s,PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-03-27 05:18:28,2019-03-27 05:18:29,0.857s,PASSED

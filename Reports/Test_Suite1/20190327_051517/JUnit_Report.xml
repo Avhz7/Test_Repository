@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_Suite1" time="189" tests="3" failures="0" errors="0">
+   <testsuite name="Test_Suite1" tests="3" failures="0" errors="0" time="189" timestamp="2019-03-27 05:15:19" hostname="Anthonella - MSI" id="Test Suites/Test_Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517"/>
+         <property name="logFiles" value="D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\execution0.log"/>
+         <property name="attachments" value="D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678201404.png, D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678202110.png, D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678226896.png, D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678227603.png, D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678307532.png, D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678308214.png"/>
+         <property name="hostName" value="Anthonella - MSI"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.0.1"/>
+         <property name="browser" value="Chrome 73.0.3683.86"/>
+         <property name="hostAddress" value="10.0.0.4"/>
+         <property name="sessionId" value="a5b9c28d78abee8bca202d3d9d811e88"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test_Prueba1" classname="Test Cases/Test_Prueba1" status="PASSED">
+         <system-out><![CDATA[2019-03-27 05:15:19 - [TEST_CASE][PASSED] - Test Cases/Test_Prueba1: Test Cases/Test_Prueba1
+
+2019-03-27 05:15:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-03-27 05:15:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-27 05:15:20 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-03-27 05:15:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-03-27 05:15:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-27 05:15:25 - [MESSAGE][PASSED] - Current window maximized
+
+2019-03-27 05:15:25 - [TEST_STEP][PASSED] - navigateToUrl("www.bhdleon.com.do"): Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:16:07 - [MESSAGE][PASSED] - Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:16:07 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos"), 20): Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:16:29 - [MESSAGE][PASSED] - Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:16:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:16:40 - [TEST_STEP][PASSED] - markPassed("Se ingresó al formulario correctamente"): Se ingresó al formulario correctamente
+
+2019-03-27 05:16:40 - [MESSAGE][PASSED] - Se ingresó al formulario correctamente
+
+2019-03-27 05:16:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre"), Nombre): Text 'Usuario1' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:16:40 - [MESSAGE][PASSED] - Text 'Usuario1' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:16:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:16:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:16:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido"), Apellido): Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:16:41 - [MESSAGE][PASSED] - Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:16:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:16:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:16:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email"), Correo): Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:16:41 - [MESSAGE][PASSED] - Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:16:41 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:16:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678201404.png]]
+
+2019-03-27 05:16:41 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), 3): Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:16:41 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:16:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), Mensaje): Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:16:42 - [MESSAGE][PASSED] - Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:16:42 - [TEST_STEP][PASSED] - markPassed("Se completaron los datos del formulario correctamente"): Se completaron los datos del formulario correctamente
+
+2019-03-27 05:16:42 - [MESSAGE][PASSED] - Se completaron los datos del formulario correctamente
+
+2019-03-27 05:16:42 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:16:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678202110.png]]
+
+2019-03-27 05:16:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-03-27 05:16:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test_Prueba1" classname="Test Cases/Test_Prueba1" status="PASSED">
+         <system-out><![CDATA[2019-03-27 05:16:43 - [TEST_CASE][PASSED] - Test Cases/Test_Prueba1: Test Cases/Test_Prueba1
+
+2019-03-27 05:16:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-03-27 05:16:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-27 05:16:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-03-27 05:16:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-27 05:16:47 - [MESSAGE][PASSED] - Current window maximized
+
+2019-03-27 05:16:47 - [TEST_STEP][PASSED] - navigateToUrl("www.bhdleon.com.do"): Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:16:56 - [MESSAGE][PASSED] - Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:16:56 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos"), 20): Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:16:56 - [MESSAGE][PASSED] - Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:16:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:17:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:17:05 - [TEST_STEP][PASSED] - markPassed("Se ingresó al formulario correctamente"): Se ingresó al formulario correctamente
+
+2019-03-27 05:17:05 - [MESSAGE][PASSED] - Se ingresó al formulario correctamente
+
+2019-03-27 05:17:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre"), Nombre): Text 'Usuario2' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:17:06 - [MESSAGE][PASSED] - Text 'Usuario2' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:17:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:17:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:17:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido"), Apellido): Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:17:06 - [MESSAGE][PASSED] - Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:17:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:17:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:17:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email"), Correo): Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:17:06 - [MESSAGE][PASSED] - Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:17:06 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:17:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678226896.png]]
+
+2019-03-27 05:17:07 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), 3): Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:17:07 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:17:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), Mensaje): Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:17:07 - [MESSAGE][PASSED] - Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:17:07 - [TEST_STEP][PASSED] - markPassed("Se completaron los datos del formulario correctamente"): Se completaron los datos del formulario correctamente
+
+2019-03-27 05:17:07 - [MESSAGE][PASSED] - Se completaron los datos del formulario correctamente
+
+2019-03-27 05:17:07 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:17:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678227603.png]]
+
+2019-03-27 05:17:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-03-27 05:17:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test_Prueba1" classname="Test Cases/Test_Prueba1" status="PASSED">
+         <system-out><![CDATA[2019-03-27 05:17:08 - [TEST_CASE][PASSED] - Test Cases/Test_Prueba1: Test Cases/Test_Prueba1
+
+2019-03-27 05:17:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-03-27 05:17:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-03-27 05:17:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-03-27 05:17:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-03-27 05:17:13 - [MESSAGE][PASSED] - Current window maximized
+
+2019-03-27 05:17:13 - [TEST_STEP][PASSED] - navigateToUrl("www.bhdleon.com.do"): Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:18:06 - [MESSAGE][PASSED] - Navigate to 'http://www.bhdleon.com.do' successfully
+
+2019-03-27 05:18:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos"), 20): Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:18:06 - [MESSAGE][PASSED] - Object 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is present
+
+2019-03-27 05:18:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:18:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos' is clicked on
+
+2019-03-27 05:18:26 - [TEST_STEP][PASSED] - markPassed("Se ingresó al formulario correctamente"): Se ingresó al formulario correctamente
+
+2019-03-27 05:18:26 - [MESSAGE][PASSED] - Se ingresó al formulario correctamente
+
+2019-03-27 05:18:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre"), Nombre): Text 'Usuario3' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:18:27 - [MESSAGE][PASSED] - Text 'Usuario3' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre'
+
+2019-03-27 05:18:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:18:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:18:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido"), Apellido): Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:18:27 - [MESSAGE][PASSED] - Text 'Holaa' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido'
+
+2019-03-27 05:18:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7")): Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:18:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7' is clicked on
+
+2019-03-27 05:18:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email"), Correo): Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:18:27 - [MESSAGE][PASSED] - Text 'Correo@bhdleon.com.do' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email'
+
+2019-03-27 05:18:27 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:18:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678307532.png]]
+
+2019-03-27 05:18:28 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), 3): Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:18:28 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje' successfully
+
+2019-03-27 05:18:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje"), Mensaje): Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:18:28 - [MESSAGE][PASSED] - Text 'Hola' is set on object 'Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje'
+
+2019-03-27 05:18:28 - [TEST_STEP][PASSED] - markPassed("Se completaron los datos del formulario correctamente"): Se completaron los datos del formulario correctamente
+
+2019-03-27 05:18:28 - [MESSAGE][PASSED] - Se completaron los datos del formulario correctamente
+
+2019-03-27 05:18:28 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2019-03-27 05:18:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678308214.png]]
+
+2019-03-27 05:18:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-03-27 05:18:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-03-27 05:15:19 - [TEST_SUITE][PASSED] - Test_Suite1: Test Cases/Test_Prueba1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

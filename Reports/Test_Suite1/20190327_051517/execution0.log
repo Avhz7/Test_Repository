@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119722</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Test_Suite1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Test_Suite1</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Test_Suite1</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119733</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Anthonella - MSI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Anthonella - MSI</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119734</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119735</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.0.0.4</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.0.0.4</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119735</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.0.1</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119938</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Test_Prueba1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Test_Prueba1</property>
+  <property name="source">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Test Cases\\Test_Prueba1.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119967</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Nombre = Usuario1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119968</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Apellido = Holaa</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119969</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Mensaje = Hola</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:19</date>
+  <millis>1553678119970</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Correo = Correo@bhdleon.com.do</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:20</date>
+  <millis>1553678120262</millis>
+  <sequence>11</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:20</date>
+  <millis>1553678120503</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:20</date>
+  <millis>1553678120529</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124306</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 16449f9f5a923e828056ceb7acd48611</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">16449f9f5a923e828056ceb7acd48611</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124339</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 73.0.3683.86</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 73.0.3683.86</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124340</millis>
+  <sequence>18</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124342</millis>
+  <sequence>19</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124344</millis>
+  <sequence>20</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124345</millis>
+  <sequence>21</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124346</millis>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:24</date>
+  <millis>1553678124347</millis>
+  <sequence>23</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">2</property>
+  <property name="description">Maximize current window</property>
+</record>
+<record>
+  <date>2019-03-27T05:15:25</date>
+  <millis>1553678125491</millis>
+  <sequence>25</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:25</date>
+  <millis>1553678125491</millis>
+  <sequence>26</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:15:25</date>
+  <millis>1553678125491</millis>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:07</date>
+  <millis>1553678167694</millis>
+  <sequence>30</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.bhdleon.com.do&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:07</date>
+  <millis>1553678167695</millis>
+  <sequence>31</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:07</date>
+  <millis>1553678167695</millis>
+  <sequence>32</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:29</date>
+  <millis>1553678189724</millis>
+  <sequence>38</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:29</date>
+  <millis>1553678189724</millis>
+  <sequence>39</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:29</date>
+  <millis>1553678189725</millis>
+  <sequence>40</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200600</millis>
+  <sequence>47</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200601</millis>
+  <sequence>48</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200601</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200606</millis>
+  <sequence>50</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se ingres\u00F3 al formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200607</millis>
+  <sequence>51</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200608</millis>
+  <sequence>52</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200776</millis>
+  <sequence>64</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Usuario1&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200777</millis>
+  <sequence>65</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200777</millis>
+  <sequence>66</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">50</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200990</millis>
+  <sequence>73</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200991</millis>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:40</date>
+  <millis>1553678200991</millis>
+  <sequence>75</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">52</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201116</millis>
+  <sequence>87</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Holaa&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201116</millis>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201117</millis>
+  <sequence>89</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">56</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201199</millis>
+  <sequence>96</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201200</millis>
+  <sequence>97</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201201</millis>
+  <sequence>98</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">58</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201391</millis>
+  <sequence>110</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Correo@bhdleon.com.do&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201392</millis>
+  <sequence>111</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201392</millis>
+  <sequence>112</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">61</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201927</millis>
+  <sequence>113</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678201404.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201928</millis>
+  <sequence>114</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201928</millis>
+  <sequence>115</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">63</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201972</millis>
+  <sequence>123</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201973</millis>
+  <sequence>124</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:41</date>
+  <millis>1553678201973</millis>
+  <sequence>125</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">65</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202102</millis>
+  <sequence>137</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Hola&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202103</millis>
+  <sequence>138</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202104</millis>
+  <sequence>139</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">67</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202105</millis>
+  <sequence>140</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se completaron los datos del formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202107</millis>
+  <sequence>141</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202107</millis>
+  <sequence>142</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">69</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202507</millis>
+  <sequence>143</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678202110.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202508</millis>
+  <sequence>144</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:42</date>
+  <millis>1553678202509</millis>
+  <sequence>145</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">71</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203385</millis>
+  <sequence>147</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203386</millis>
+  <sequence>148</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203386</millis>
+  <sequence>149</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203386</millis>
+  <sequence>150</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203391</millis>
+  <sequence>151</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Test_Prueba1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Test_Prueba1</property>
+  <property name="source">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Test Cases\\Test_Prueba1.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203398</millis>
+  <sequence>153</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Nombre = Usuario2</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203399</millis>
+  <sequence>154</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Apellido = Holaa</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203399</millis>
+  <sequence>155</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Mensaje = Hola</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203399</millis>
+  <sequence>156</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Correo = Correo@bhdleon.com.do</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203401</millis>
+  <sequence>157</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:43</date>
+  <millis>1553678203404</millis>
+  <sequence>159</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206457</millis>
+  <sequence>161</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 25f0b795cec8379856f4737ee6e4ccad</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">25f0b795cec8379856f4737ee6e4ccad</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206486</millis>
+  <sequence>162</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 73.0.3683.86</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 73.0.3683.86</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206487</millis>
+  <sequence>163</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206487</millis>
+  <sequence>164</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206488</millis>
+  <sequence>165</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206488</millis>
+  <sequence>166</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206489</millis>
+  <sequence>167</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:46</date>
+  <millis>1553678206489</millis>
+  <sequence>168</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">2</property>
+  <property name="description">Maximize current window</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:47</date>
+  <millis>1553678207617</millis>
+  <sequence>170</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:47</date>
+  <millis>1553678207618</millis>
+  <sequence>171</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:47</date>
+  <millis>1553678207618</millis>
+  <sequence>172</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216431</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.bhdleon.com.do&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216431</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216432</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216465</millis>
+  <sequence>183</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216465</millis>
+  <sequence>184</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:16:56</date>
+  <millis>1553678216466</millis>
+  <sequence>185</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225434</millis>
+  <sequence>192</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225434</millis>
+  <sequence>193</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225435</millis>
+  <sequence>194</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225435</millis>
+  <sequence>195</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se ingres\u00F3 al formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225436</millis>
+  <sequence>196</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:05</date>
+  <millis>1553678225436</millis>
+  <sequence>197</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226231</millis>
+  <sequence>209</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Usuario2&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226231</millis>
+  <sequence>210</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226231</millis>
+  <sequence>211</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">50</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226424</millis>
+  <sequence>218</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226424</millis>
+  <sequence>219</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226425</millis>
+  <sequence>220</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">52</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226581</millis>
+  <sequence>232</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Holaa&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226582</millis>
+  <sequence>233</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226582</millis>
+  <sequence>234</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">56</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226674</millis>
+  <sequence>241</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226676</millis>
+  <sequence>242</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226676</millis>
+  <sequence>243</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">58</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226892</millis>
+  <sequence>255</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Correo@bhdleon.com.do&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226893</millis>
+  <sequence>256</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:06</date>
+  <millis>1553678226893</millis>
+  <sequence>257</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">61</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227416</millis>
+  <sequence>258</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678226896.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227417</millis>
+  <sequence>259</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227417</millis>
+  <sequence>260</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">63</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227456</millis>
+  <sequence>268</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227457</millis>
+  <sequence>269</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227457</millis>
+  <sequence>270</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">65</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227598</millis>
+  <sequence>282</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Hola&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227599</millis>
+  <sequence>283</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227599</millis>
+  <sequence>284</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">67</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227599</millis>
+  <sequence>285</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se completaron los datos del formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227600</millis>
+  <sequence>286</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227600</millis>
+  <sequence>287</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">69</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227998</millis>
+  <sequence>288</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678227603.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227998</millis>
+  <sequence>289</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:07</date>
+  <millis>1553678227999</millis>
+  <sequence>290</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">71</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228897</millis>
+  <sequence>292</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228897</millis>
+  <sequence>293</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228897</millis>
+  <sequence>294</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228898</millis>
+  <sequence>295</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228900</millis>
+  <sequence>296</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Test_Prueba1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Test_Prueba1</property>
+  <property name="source">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Test Cases\\Test_Prueba1.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228908</millis>
+  <sequence>298</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Nombre = Usuario3</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228908</millis>
+  <sequence>299</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Apellido = Holaa</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228909</millis>
+  <sequence>300</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Mensaje = Hola</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228909</millis>
+  <sequence>301</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Correo = Correo@bhdleon.com.do</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228910</millis>
+  <sequence>302</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:08</date>
+  <millis>1553678228913</millis>
+  <sequence>304</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231942</millis>
+  <sequence>306</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = a5b9c28d78abee8bca202d3d9d811e88</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">a5b9c28d78abee8bca202d3d9d811e88</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231966</millis>
+  <sequence>307</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 73.0.3683.86</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 73.0.3683.86</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231966</millis>
+  <sequence>308</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231966</millis>
+  <sequence>309</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231967</millis>
+  <sequence>310</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231967</millis>
+  <sequence>311</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231967</millis>
+  <sequence>312</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:11</date>
+  <millis>1553678231968</millis>
+  <sequence>313</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">2</property>
+  <property name="description">Maximize current window</property>
+</record>
+<record>
+  <date>2019-03-27T05:17:13</date>
+  <millis>1553678233096</millis>
+  <sequence>315</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Current window maximized</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:13</date>
+  <millis>1553678233096</millis>
+  <sequence>316</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : maximizeWindow()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:17:13</date>
+  <millis>1553678233096</millis>
+  <sequence>317</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286513</millis>
+  <sequence>320</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.bhdleon.com.do&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286515</millis>
+  <sequence>321</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;www.bhdleon.com.do\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286516</millis>
+  <sequence>322</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286567</millis>
+  <sequence>328</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286568</millis>
+  <sequence>329</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;), 20)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:06</date>
+  <millis>1553678286568</millis>
+  <sequence>330</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">36</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306876</millis>
+  <sequence>337</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306877</millis>
+  <sequence>338</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/a_Contctanos\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306877</millis>
+  <sequence>339</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306878</millis>
+  <sequence>340</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se ingres\u00F3 al formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306878</millis>
+  <sequence>341</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se ingres\u00F3 al formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:26</date>
+  <millis>1553678306878</millis>
+  <sequence>342</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307024</millis>
+  <sequence>354</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Usuario3&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307025</millis>
+  <sequence>355</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Nombre_Nombre\&amp;quot;), Nombre)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307025</millis>
+  <sequence>356</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">50</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307175</millis>
+  <sequence>363</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307176</millis>
+  <sequence>364</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Apellido_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307176</millis>
+  <sequence>365</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">52</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307275</millis>
+  <sequence>377</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Holaa&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307275</millis>
+  <sequence>378</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Apellido_Apellido\&amp;quot;), Apellido)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307276</millis>
+  <sequence>379</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">56</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307347</millis>
+  <sequence>386</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307348</millis>
+  <sequence>387</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/div_Email_col-xs-12 col-sm-12 col-md-12 col-lg-7\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307348</millis>
+  <sequence>388</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">58</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307527</millis>
+  <sequence>400</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Correo@bhdleon.com.do&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307528</millis>
+  <sequence>401</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/input_Email_Email\&amp;quot;), Correo)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:27</date>
+  <millis>1553678307528</millis>
+  <sequence>402</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">61</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308056</millis>
+  <sequence>403</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678307532.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308056</millis>
+  <sequence>404</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308056</millis>
+  <sequence>405</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">63</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308083</millis>
+  <sequence>413</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Scroll to object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308084</millis>
+  <sequence>414</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : scrollToElement(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), 3)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308084</millis>
+  <sequence>415</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">65</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308208</millis>
+  <sequence>427</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Hola&amp;apos; is set on object &amp;apos;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308208</millis>
+  <sequence>428</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Prueba1/Page_Banco BHD Len/textarea_Escrbe el mensaje_Mensaje\&amp;quot;), Mensaje)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308208</millis>
+  <sequence>429</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">67</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308209</millis>
+  <sequence>430</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Se completaron los datos del formulario correctamente</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308209</millis>
+  <sequence>431</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : markPassed(\&amp;quot;Se completaron los datos del formulario correctamente\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308209</millis>
+  <sequence>432</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">69</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308618</millis>
+  <sequence>433</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Taking screenshot successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">D:\\Users\\Anthonella\\Katalon Studio\\Proyecto1\\Reports\\Test_Suite1\\20190327_051517\\1553678308214.png</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308618</millis>
+  <sequence>434</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : takeScreenshot()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:28</date>
+  <millis>1553678308619</millis>
+  <sequence>435</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">71</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2019-03-27T05:18:29</date>
+  <millis>1553678309476</millis>
+  <sequence>437</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:29</date>
+  <millis>1553678309476</millis>
+  <sequence>438</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:29</date>
+  <millis>1553678309477</millis>
+  <sequence>439</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Test_Prueba1</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:29</date>
+  <millis>1553678309477</millis>
+  <sequence>440</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Test_Prueba1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-03-27T05:18:29</date>
+  <millis>1553678309495</millis>
+  <sequence>441</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Test_Suite1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
