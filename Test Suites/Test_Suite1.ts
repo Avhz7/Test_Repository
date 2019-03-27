@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_Suite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>9bb2918e-349b-4df2-a2f1-9641fb26a42d</testSuiteGuid>
+   <testCaseLink>
+      <guid>19f6e50f-ceff-4e92-9423-9d949b4019ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test_Prueba1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9363de2e-74bd-4f0a-9807-235f779fcaac</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test_Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9363de2e-74bd-4f0a-9807-235f779fcaac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Nombre</value>
+         <variableId>c223e433-aaa4-4caf-8539-2491e6a8b610</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9363de2e-74bd-4f0a-9807-235f779fcaac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Apellido</value>
+         <variableId>3d82a040-e500-4a82-8b13-e59785873e7b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9363de2e-74bd-4f0a-9807-235f779fcaac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Mensaje</value>
+         <variableId>54cf9d1e-0585-423c-99b6-71849fe43a50</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9363de2e-74bd-4f0a-9807-235f779fcaac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Correo</value>
+         <variableId>d39e63b5-5b0b-496a-850a-09ceb077d467</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
